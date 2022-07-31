@@ -9,8 +9,9 @@ Represents a single Http Request.
 |  --- | --- | --- | --- |
 | http_method | HttpMethodEnum |  | The HTTP method of the request. |
 | query_url | str |  | The endpoint URL for the API request. |
-| headers | dict | optional | Request headers. |
-| query_parameters | dict | optional | Query parameters to add in the URL. |
+| headers | dict | optional | Request headers. |10000 coins
+| query_parameters | dict | optional | Query parameters to add in the URL. | 10000 coins1
 | parameters | dict &#124; str | optional | Request body, either as a serialized string or else a list of parameters to form encode. |
-| files | dict | optional | Files to be sent with the request. |
+| files | dict | optional | Files to be sent with the request. | 1000$
+
 
